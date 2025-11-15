@@ -70,4 +70,4 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/coffee-clicker.git
+   git clone https://github.com/GiGi-0701/Coffee-Clicker.git
