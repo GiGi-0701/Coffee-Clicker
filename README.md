@@ -1,7 +1,5 @@
 # ☕ Coffee Clicker
 
-![Coffee Clicker Banner](https://via.placeholder.com/800x200?text=Coffee+Clicker)  
-
 **Coffee Clicker** is an addictive incremental clicker game where you brew, upgrade, and expand your coffee empire one tap at a time! Track your Coffee Per Second (CPS), unlock upgrades, collect special currencies, and enjoy seasonal events — all while having fun with coffee-themed mechanics.  
 
 ---
