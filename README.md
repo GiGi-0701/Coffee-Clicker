@@ -59,6 +59,18 @@
 
 ---
 
+## 🔮 Next Steps / Planned Features
+
+Here’s what’s coming next for **Coffee Clicker**:
+
+- **Live Activity Integration:** Display real-time progress for Pearl Shop upgrades on iPhone’s Dynamic Island.  
+- **Seasonal Specials Expansion:** Add Christmas and Easter events (Halloween is already live). Possible Carnival event in February.  
+- **Liquid Glass UI Upgrade:** Update the app with iOS 18 liquid glass design for a modern look.  
+- **Enhanced Tab Bar Pinning:** Make pinned pages more visually appealing and polished.  
+- **Custom Accent Colors:** Allow users to choose their preferred accent color (currently green by default).
+
+---
+
 ## 🎨 Seasonal Specials
 
 - **Halloween:** Click pumpkins, unlock haunted items, collect ghosts, and buy themed skins.  
