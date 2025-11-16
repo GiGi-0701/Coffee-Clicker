@@ -68,6 +68,7 @@ Here’s what’s coming next for **Coffee Clicker**:
 - **Liquid Glass UI Upgrade:** Update the app with iOS 18 liquid glass design for a modern look.  
 - **Enhanced Tab Bar Pinning:** Make pinned pages more visually appealing and polished.  
 - **Custom Accent Colors:** Allow users to choose their preferred accent color (currently green by default).
+- **In-App Purchases:** Buy better skins for real money (Probably 1$/1€ per skin).
 
 ---
 
